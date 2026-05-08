@@ -36,4 +36,7 @@ chmod +x arisa_installer
 ./arisa_installer
 ```
 
-본 Repository는 arisa 제작자 주구님의 허락을 받고 제작 한 것 입니다
+본 Repository는 arisa 제작자 주구님의 허락을 받고 제작 한 것 입니다.
+
+이 소프트웨어는 개인 사용 목적으로만 사용 가능합니다.
+수정은 허용되나, 원본 또는 수정본의 재배포는 엄격히 금지됩니다.
