@@ -1,0 +1,9 @@
+
+echo "[*] arisa 다운로드중.."
+wget https://raw.githubusercontent.com/ye-seola/arisa-deploy/refs/heads/main/arisa-arm64 -O ./arisa
+
+echo "[*] chmod로 권한 부여중.."
+chmod +x ./arisa
+
+echo "[*] 루트에서 arisa 실행중.."
+su -c "./arisa"
