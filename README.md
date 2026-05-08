@@ -14,13 +14,17 @@ pkg install git
 git을 설치 한 다음
 
 ```bash
-pkg insta wget
+pkg install wget
 ```
 을 해서 wget도 설치해줍니다.
 
 # 메인
 ```bash
 git clone https://github.com/nyehuing50-wq/arisa_installer.git
+```
+
+```bash
+cd arisa_installer
 ```
 
 # 실행
