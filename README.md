@@ -20,7 +20,7 @@ pkg install wget
 
 # 메인
 ```bash
-git clone https://github.com/nyehuing50-wq/arisa_installer.git
+git clone https://github.com/chabssal-e/arisa_installer.git
 ```
 
 ```bash
